@@ -20,7 +20,7 @@ This project is a Rust-based watering automation system designed to manage the i
 - **Power Management**: Runs on battery or external power with energy-efficient design.
 
 ## Repository
-- [Watering Automation System GitHub Repository](https://github.com/yourusername/watering-automation)
+- [Watering Automation System GitHub Repository](https://github.com/deepSuturn/plant-watering-system)
 
 ## License
 This project is licensed under the MIT License.
